@@ -18,7 +18,7 @@
     &--small {
         font-size: 1.6rem;
 
-        @media atSmall {
+        @mixin atSmall {
             font-size: 1.875rem;
 
         }
